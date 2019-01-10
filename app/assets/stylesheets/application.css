@@ -1,0 +1,70 @@
+body 
+{ 
+	padding-top: 60px; 
+	padding: 10px 10px 10px 10px;
+	background-color:   #80ff80;
+	align-content: center;
+
+}
+
+#notice 
+{
+	color: red;
+	font-style: italic;
+
+}
+
+.hr1 {
+	border: 8px solid green;
+}
+
+.table 
+{
+	margin: 2px;
+	background-color:  #1A7F17;
+	align:center;
+	margin: auto;
+	border: 5px solid white;
+	padding: 5px;
+	border-spacing: 1.2rem;
+}
+.thead
+{
+	display: table-header-group;
+	vertical-align: middle;
+	border-color: inherit;
+	color: yellow;
+}
+
+.label
+{
+	color:#FFAB00;
+	size: 18px;
+	font-style: oblique;
+}
+.form
+{
+	margin: auto;
+	align:center;
+	background-color: #31CC00;
+	padding: 10px 10px 10px 10px;
+	width: 40%;
+}
+#submit
+{
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+
+}
+.text
+{
+	background-color: #3CBC8D;
+	color: white;
+
+}
